@@ -7,9 +7,9 @@
 
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m A ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Frontend Developer & ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital Concept Artist ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Full Stack Developer  ...</li>
+  
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://vinodjangid.site/" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://sneh.netlify.app/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br>
