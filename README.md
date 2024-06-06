@@ -18,8 +18,8 @@
 <p>
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/ba7d4b8c-8fcf-43d4-8aaa-81977ca5d252" alt="HTML" height="50" title="HTML">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/4e342502-fa63-4699-8f2d-06c5150171b4" alt="CSS" height="50" title="CSS">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/57cd976e-c49d-49b6-8dcc-038f23f1963e" alt="BOOTSTRAP" height="50" title="BOOTSTRAP">
+<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(1).png" alt="JQ" height="50" title="JQ" style="border-radius:50px">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/821e31cf-ac55-411b-8972-fc64a5485612" alt="REACT" height="50" title="REACT"><br>
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8b59783d-a52c-4be4-9f00-f791057d4e0b" alt="FIGMA" height="50" title="FIGMA">
