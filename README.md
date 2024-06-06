@@ -34,5 +34,4 @@
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/259907ba-c4ff-4fa3-9d49-6827409fcd4b" alt="GIT" height="50" title="GIT">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/0fdebf20-d402-42ae-bc7d-5650a5ddc0fb" alt="NETLIFY" height="50" title="NETLIFY">
 <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(1).png" alt="REACT" height="50" title="REACT" style="border-radius:50px">
-
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="CPP" height="50" title="C++"></p>
