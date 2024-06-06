@@ -22,11 +22,8 @@
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design%20(1).png" alt="JQ" height="50" title="JQ" style="border-radius:50px">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/821e31cf-ac55-411b-8972-fc64a5485612" alt="REACT" height="50" title="REACT"><br>
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8b59783d-a52c-4be4-9f00-f791057d4e0b" alt="FIGMA" height="50" title="FIGMA">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/24d19823-001d-4c8a-bb35-d0e3b3bfc433" alt="PS" height="50" title="PHOTOSHOP">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/8364f96d-fbf3-46ae-a874-2ac7033f5a16" alt="AI" height="50" title="ADOBE ILLUSTRATOR">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/c7e0c531-67f8-4bf8-9950-c61302c2b848" alt="CANVA" height="50" title="CANVA">
+
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/bd7bc243-8e54-4a12-97b7-593e4b860bc4" alt="GITHUB" height="50" title="GITHUB">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/259907ba-c4ff-4fa3-9d49-6827409fcd4b" alt="GIT" height="50" title="GIT">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/0fdebf20-d402-42ae-bc7d-5650a5ddc0fb" alt="NETLIFY" height="50" title="NETLIFY">
-<img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="CPP" height="50" title="C++"></p>
+</p>
