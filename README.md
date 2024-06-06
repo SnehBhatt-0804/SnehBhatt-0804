@@ -21,7 +21,7 @@
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/9e6de8bd-99ad-4e43-a3c1-9f74b9f138ad" alt="Javascript" height="50" title="JS">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/57cd976e-c49d-49b6-8dcc-038f23f1963e" alt="BOOTSTRAP" height="50" title="BOOTSTRAP">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/821e31cf-ac55-411b-8972-fc64a5485612" alt="REACT" height="50" title="REACT">
-<img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design.png" alt="REACT" height="50" title="REACT">
+<img src="https://github.com/SnehBhatt-0804/SnehBhatt-0804/blob/main/Untitled%20design.png" alt="REACT" height="50" title="REACT" style="border-radius:50px">
 
 
 <br>
