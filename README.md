@@ -10,7 +10,7 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Full Stack Developer  ...</li>
   
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;💞️ I’m looking for collaborations and making products ...</li>
-  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://sneh.netlify.app/" target="_blank">Portfolio</a> to know more about me ...</li>
+  <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://snehbhatt.netlify.app/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 <br><br><br><br>
 <img width="137" alt="Frame 22" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
